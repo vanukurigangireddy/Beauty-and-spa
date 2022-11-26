@@ -1,5 +1,5 @@
-Azure link : https://salmon-pond-023c8a200.2.azurestaticapps.net/
-GitHub link : https://vanukurigangireddy.github.io/Beauty-and-spa/
+#Azure link : https://salmon-pond-023c8a200.2.azurestaticapps.net/
+#GitHub link : https://vanukurigangireddy.github.io/Beauty-and-spa/
 
 ## screenshots of project  ##
 ![Screenshot (1)](https://user-images.githubusercontent.com/116866711/204099943-edde587f-f2c3-4a6f-8b0d-d6bdb2dc1af0.png)
