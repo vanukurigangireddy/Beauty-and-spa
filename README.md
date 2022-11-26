@@ -14,3 +14,10 @@ GitHub link : https://vanukurigangireddy.github.io/Beauty-and-spa/
 ![Screenshot (5)](https://user-images.githubusercontent.com/116866711/204099952-ab741706-31af-412d-b1ae-5c3da1aed444.png)
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/116866711/204099954-6fab1bc6-85b0-451b-973a-a35726145ef7.png)
+
+## screenshots of project being developed ##
+![Screenshot (7)](https://user-images.githubusercontent.com/116866711/204100235-a362dfb4-0f06-4f1e-b89d-29cef5ca18e4.png)
+
+![Screenshot (8)](https://user-images.githubusercontent.com/116866711/204100243-1645d547-bf6c-4882-a95f-10d23ec1dc34.png)
+
+![Screenshot (9)](https://user-images.githubusercontent.com/116866711/204100245-46057bc3-69b7-4cbf-9fba-89086079fbe5.png)
